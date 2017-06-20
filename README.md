@@ -34,4 +34,4 @@ chrome 的插件（ extensions ）编写和我们所编写的后台程序有些�
 
 ## 运行截图
 
-<img src="1.png" >
+<img src="src/1.png" >
