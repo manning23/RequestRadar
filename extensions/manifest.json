@@ -1,0 +1,27 @@
+{
+  "name": "Request Radar",
+  "version": "0.1",
+  "description": "Request Radar is a tool that you can review all the request.",
+  "author": "manning23",
+  "permissions": [
+    "webRequest", 
+    "webRequestBlocking",
+    "http://*/*", 
+    "https://*/*",
+    "management"
+  ],
+  "background": {
+    "page": "src/background/background.html"
+    // "scripts": [
+    //     "src/background/core.js", 
+    //     "src/background/background.js"
+    // ]
+  },
+  "browser_action": {
+    "default_icon": "icons/gamingLogo.png",
+    "default_title": "Request Radar",
+    "default_popup": "src/browser_action/browser_action.html"
+  },
+
+  "manifest_version": 2
+}
