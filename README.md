@@ -32,6 +32,6 @@ js中，函数也是一种对象。
 
 chrome 的插件（ extensions ）编写和我们所编写的后台程序有些区别，区别在于chrome的插件要基于chrome运行，该插件不能妨碍chrome的正常运行，因此是一种监听式的编程形式。
 
-## sda
+## 运行截图
 
 <img src="1.png" >
